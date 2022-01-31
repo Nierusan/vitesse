@@ -12,4 +12,5 @@
     "*.css": "postcss",
   },
   "editor.formatOnSave": false,
+  "editor.fontFamily": "operator mono, Menlo, Monaco, 'Courier New', monospace",
 }
